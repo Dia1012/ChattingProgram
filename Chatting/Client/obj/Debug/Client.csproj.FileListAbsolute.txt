@@ -1,0 +1,11 @@
+C:\Users\dia10\source\repos\Chatting\Client\bin\Debug\Client.exe.config
+C:\Users\dia10\source\repos\Chatting\Client\bin\Debug\Client.exe
+C:\Users\dia10\source\repos\Chatting\Client\bin\Debug\Client.pdb
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.exe
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.pdb
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.ClientChat.resources
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.ClientStart.resources
+C:\Users\dia10\source\repos\Chatting\Client\obj\Debug\Client.csproj.AssemblyReference.cache
